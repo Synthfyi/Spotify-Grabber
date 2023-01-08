@@ -16,14 +16,14 @@ Grabs your currently playing spotify with spotify API and XmlHttp.
 6. Refresh/Reload index.html and your currently playing songand artist should be shown !
 
 ------------
---- NOTE --- 
+   NOTE    
 ------------
 
 ----------------------------------------------------------------------------------------------------
---- There is a known issue with the desktop version of Spotify returning a 204 error, if you are ---
----  having trouble with this please use the web version of Spotify at https://open.spotify.com/ ---
+    There is a known issue with the desktop version of Spotify returning a 204 error, if you are    
+     having trouble with this please use the web version of Spotify at https://open.spotify.com/    
 ----------------------------------------------------------------------------------------------------
 
 ------------------------------------------
---- Copyright @github.com/SynthScripts ---
+    Copyright @github.com/SynthScripts ---
 ------------------------------------------
